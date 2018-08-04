@@ -1,5 +1,7 @@
 # Eventable Flysystem
 
+[![Build Status](https://travis-ci.org/frostieDE/eventable-flysystem.svg?branch=master)](https://travis-ci.org/frostieDE/eventable-flysystem)
+
 This is a Filesystem implementation which dispatches events on any call to the underlying filesystem.
 
 In contrast to [flysystem-eventable-filesystem](https://github.com/thephpleague/flysystem-eventable-filesystem) this
